@@ -1,0 +1,1371 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="WARNER CHANNEL FULL HD H265">
+    <display-name lang="pt">WARNER CHANNEL FULL HD H265</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="WARNER CHANNEL HD">
+    <display-name lang="pt">WARNER CHANNEL HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="WARNER CHANNEL SD">
+    <display-name lang="pt">WARNER CHANNEL SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20181206002900 -0400" stop="20181206011900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">All American</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206011900 -0400" stop="20181206020500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206020500 -0400" stop="20181206022900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206022900 -0400" stop="20181206025300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206025300 -0400" stop="20181206031600 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206031600 -0400" stop="20181206033900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206033900 -0400" stop="20181206040100 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206040100 -0400" stop="20181206042200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206042200 -0400" stop="20181206044400 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206044400 -0400" stop="20181206051000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206051000 -0400" stop="20181206053500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206053500 -0400" stop="20181206060000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206060000 -0400" stop="20181206064700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Supergirl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206064700 -0400" stop="20181206071300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206071300 -0400" stop="20181206073800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206073800 -0400" stop="20181206080200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206080200 -0400" stop="20181206082500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206082500 -0400" stop="20181206085000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206085000 -0400" stop="20181206091500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206091500 -0400" stop="20181206093700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206093700 -0400" stop="20181206095900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206095900 -0400" stop="20181206102100 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206102100 -0400" stop="20181206104500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206104500 -0400" stop="20181206122900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">De Repente 30</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206122900 -0400" stop="20181206125500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206125500 -0400" stop="20181206132000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206132000 -0400" stop="20181206134500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Kevin pode Esperar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206134500 -0400" stop="20181206141100 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206141100 -0400" stop="20181206143500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206143500 -0400" stop="20181206150000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206150000 -0400" stop="20181206152500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206152500 -0400" stop="20181206161300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206161300 -0400" stop="20181206180000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Fúria de Titãs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206180000 -0400" stop="20181206195900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Cinderela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206195900 -0400" stop="20181206202500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206202500 -0400" stop="20181206205000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206205000 -0400" stop="20181206211500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206211500 -0400" stop="20181206214000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206214000 -0400" stop="20181206223000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Flash</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206223000 -0400" stop="20181207004700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Guardiões da Galáxia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207004700 -0400" stop="20181207013700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Arrow</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207013700 -0400" stop="20181207022600 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207022600 -0400" stop="20181207024700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207024700 -0400" stop="20181207030700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207030700 -0400" stop="20181207032800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207032800 -0400" stop="20181207035100 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207035100 -0400" stop="20181207041100 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207041100 -0400" stop="20181207043400 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207043400 -0400" stop="20181207045700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207045700 -0400" stop="20181207051500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207051500 -0400" stop="20181207053800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207053800 -0400" stop="20181207060000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207060000 -0400" stop="20181207064400 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Supergirl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207064400 -0400" stop="20181207070900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207070900 -0400" stop="20181207073500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207073500 -0400" stop="20181207075900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207075900 -0400" stop="20181207082100 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207082100 -0400" stop="20181207084300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207084300 -0400" stop="20181207090500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207090500 -0400" stop="20181207092800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207092800 -0400" stop="20181207094700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207094700 -0400" stop="20181207121200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Coração de Cavaleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207121200 -0400" stop="20181207123600 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207123600 -0400" stop="20181207130000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207130000 -0400" stop="20181207132300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">O Chefe da Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207132300 -0400" stop="20181207134700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207134700 -0400" stop="20181207141200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207141200 -0400" stop="20181207143700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207143700 -0400" stop="20181207150200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207150200 -0400" stop="20181207152400 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207152400 -0400" stop="20181207161200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207161200 -0400" stop="20181207170200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207170200 -0400" stop="20181207183700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Homens da Pátria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207183700 -0400" stop="20181207190200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207190200 -0400" stop="20181207192500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207192500 -0400" stop="20181207194700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207194700 -0400" stop="20181207201200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207201200 -0400" stop="20181207223000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Guardiões da Galáxia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207223000 -0400" stop="20181208002600 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Gente Grande</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208002600 -0400" stop="20181208020300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Projeto X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208020300 -0400" stop="20181208025300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Riverdale</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208025300 -0400" stop="20181208031500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208031500 -0400" stop="20181208033900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208033900 -0400" stop="20181208040300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208040300 -0400" stop="20181208042500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208042500 -0400" stop="20181208044800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208044800 -0400" stop="20181208051200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208051200 -0400" stop="20181208053500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208053500 -0400" stop="20181208060000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208060000 -0400" stop="20181208064800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Supergirl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208064800 -0400" stop="20181208071300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208071300 -0400" stop="20181208073800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208073800 -0400" stop="20181208080300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208080300 -0400" stop="20181208085300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">All American</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208085300 -0400" stop="20181208091800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208091800 -0400" stop="20181208094300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208094300 -0400" stop="20181208100800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208100800 -0400" stop="20181208103300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208103300 -0400" stop="20181208120500 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Fúria em Duas Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208120500 -0400" stop="20181208123200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208123200 -0400" stop="20181208125600 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208125600 -0400" stop="20181208132200 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208132200 -0400" stop="20181208134800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208134800 -0400" stop="20181208141300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Young Sheldon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208141300 -0400" stop="20181208143800 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208143800 -0400" stop="20181208150300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208150300 -0400" stop="20181208152900 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208152900 -0400" stop="20181208155400 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208155400 -0400" stop="20181208161700 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208161700 -0400" stop="20181208183000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Máquina Mortífera 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208183000 -0400" stop="20181208203300 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Tiras em Apuros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208203300 -0400" stop="20181208223000 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Gente Grande</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208223000 -0400" stop="20181209002400 -0400" channel="WARNER CHANNEL FULL HD H265">
+    <title lang="pt">Gente Grande 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206002900 -0400" stop="20181206011900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">All American</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206011900 -0400" stop="20181206020500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206020500 -0400" stop="20181206022900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206022900 -0400" stop="20181206025300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206025300 -0400" stop="20181206031600 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206031600 -0400" stop="20181206033900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206033900 -0400" stop="20181206040100 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206040100 -0400" stop="20181206042200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206042200 -0400" stop="20181206044400 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206044400 -0400" stop="20181206051000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206051000 -0400" stop="20181206053500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206053500 -0400" stop="20181206060000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206060000 -0400" stop="20181206064700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Supergirl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206064700 -0400" stop="20181206071300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206071300 -0400" stop="20181206073800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206073800 -0400" stop="20181206080200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206080200 -0400" stop="20181206082500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206082500 -0400" stop="20181206085000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206085000 -0400" stop="20181206091500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206091500 -0400" stop="20181206093700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206093700 -0400" stop="20181206095900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206095900 -0400" stop="20181206102100 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206102100 -0400" stop="20181206104500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206104500 -0400" stop="20181206122900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">De Repente 30</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206122900 -0400" stop="20181206125500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206125500 -0400" stop="20181206132000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206132000 -0400" stop="20181206134500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Kevin pode Esperar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206134500 -0400" stop="20181206141100 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206141100 -0400" stop="20181206143500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206143500 -0400" stop="20181206150000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206150000 -0400" stop="20181206152500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206152500 -0400" stop="20181206161300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206161300 -0400" stop="20181206180000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Fúria de Titãs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206180000 -0400" stop="20181206195900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Cinderela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206195900 -0400" stop="20181206202500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206202500 -0400" stop="20181206205000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206205000 -0400" stop="20181206211500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206211500 -0400" stop="20181206214000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206214000 -0400" stop="20181206223000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Flash</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181206223000 -0400" stop="20181207004700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Guardiões da Galáxia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207004700 -0400" stop="20181207013700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Arrow</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207013700 -0400" stop="20181207022600 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207022600 -0400" stop="20181207024700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207024700 -0400" stop="20181207030700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207030700 -0400" stop="20181207032800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207032800 -0400" stop="20181207035100 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207035100 -0400" stop="20181207041100 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207041100 -0400" stop="20181207043400 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207043400 -0400" stop="20181207045700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207045700 -0400" stop="20181207051500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207051500 -0400" stop="20181207053800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207053800 -0400" stop="20181207060000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207060000 -0400" stop="20181207064400 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Supergirl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207064400 -0400" stop="20181207070900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207070900 -0400" stop="20181207073500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207073500 -0400" stop="20181207075900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207075900 -0400" stop="20181207082100 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207082100 -0400" stop="20181207084300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207084300 -0400" stop="20181207090500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207090500 -0400" stop="20181207092800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207092800 -0400" stop="20181207094700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207094700 -0400" stop="20181207121200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Coração de Cavaleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207121200 -0400" stop="20181207123600 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207123600 -0400" stop="20181207130000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207130000 -0400" stop="20181207132300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">O Chefe da Casa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207132300 -0400" stop="20181207134700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207134700 -0400" stop="20181207141200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207141200 -0400" stop="20181207143700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207143700 -0400" stop="20181207150200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207150200 -0400" stop="20181207152400 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207152400 -0400" stop="20181207161200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207161200 -0400" stop="20181207170200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207170200 -0400" stop="20181207183700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Homens da Pátria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207183700 -0400" stop="20181207190200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207190200 -0400" stop="20181207192500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207192500 -0400" stop="20181207194700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207194700 -0400" stop="20181207201200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207201200 -0400" stop="20181207223000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Guardiões da Galáxia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181207223000 -0400" stop="20181208002600 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Gente Grande</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208002600 -0400" stop="20181208020300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Projeto X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208020300 -0400" stop="20181208025300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Riverdale</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208025300 -0400" stop="20181208031500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208031500 -0400" stop="20181208033900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208033900 -0400" stop="20181208040300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208040300 -0400" stop="20181208042500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208042500 -0400" stop="20181208044800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208044800 -0400" stop="20181208051200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208051200 -0400" stop="20181208053500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208053500 -0400" stop="20181208060000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208060000 -0400" stop="20181208064800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Supergirl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208064800 -0400" stop="20181208071300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208071300 -0400" stop="20181208073800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208073800 -0400" stop="20181208080300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208080300 -0400" stop="20181208085300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">All American</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208085300 -0400" stop="20181208091800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208091800 -0400" stop="20181208094300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208094300 -0400" stop="20181208100800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208100800 -0400" stop="20181208103300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208103300 -0400" stop="20181208120500 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Fúria em Duas Rodas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208120500 -0400" stop="20181208123200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208123200 -0400" stop="20181208125600 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208125600 -0400" stop="20181208132200 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208132200 -0400" stop="20181208134800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208134800 -0400" stop="20181208141300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Young Sheldon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208141300 -0400" stop="20181208143800 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208143800 -0400" stop="20181208150300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208150300 -0400" stop="20181208152900 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208152900 -0400" stop="20181208155400 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208155400 -0400" stop="20181208161700 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208161700 -0400" stop="20181208183000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Máquina Mortífera 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208183000 -0400" stop="20181208203300 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Tiras em Apuros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208203300 -0400" stop="20181208223000 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Gente Grande</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181208223000 -0400" stop="20181209002400 -0400" channel="WARNER CHANNEL HD">
+    <title lang="pt">Gente Grande 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
